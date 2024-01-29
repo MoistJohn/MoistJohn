@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MoistJohn
+- 👋 Hi, I’m Yonatan
 - 👀 I’m interested in clean, highly maintainable, well designed code
-- 🌱 I’m currently learning working with Azure cloud services
 
 <!---
 MoistJohn/MoistJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
